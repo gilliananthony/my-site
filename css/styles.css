@@ -72,7 +72,7 @@ h4{
 }
 
 .footer-link {
-  color: #11999E;
+  color: white;
 }
 .skills{
   margin: 100px auto;
@@ -84,12 +84,12 @@ h4{
   line-height: 2;
 }
 .image{
-  width: 51%;
+  width: 25%;
   float: left;
   margin-right: 30px;
 }
 .image2{
-  width: 51%;
+  width: 30%;
   float: right;
   margin-left: 30px;
 }
